@@ -2,7 +2,7 @@
 
 Sauce Lab Demo Page Test
 
-- Istall TestCafe
+- Install TestCafe
 
        -npm install -g testcafe
 
