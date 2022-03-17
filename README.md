@@ -1,6 +1,6 @@
 # TestCafe Automation Case
 
-###Sauce Lab Demo Page Test
+Sauce Lab Demo Page Test
 
 - Istall TestCafe
 
