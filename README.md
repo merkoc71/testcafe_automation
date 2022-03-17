@@ -2,7 +2,7 @@
 
 ###Sauce Lab Demo Page Test
 
-- Install TestCafe
+- Istall TestCafe
 
 npm install -g testcafe
 
@@ -10,7 +10,7 @@ npm install -g testcafe
 
 https://github.com/merkoc71/testcafe_automation
 
-- Change directory 
+    - Change directory
 
 cd testcafe_automation/test
 
