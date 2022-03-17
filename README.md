@@ -12,8 +12,8 @@
 
  - Change directory
 
-     - cd testcafe_automation/test
+     -cd testcafe_automation/test
 
  - Start test
 
-     - testcafe chrome CheckOutTest.js
+     -testcafe chrome CheckOutTest.js
